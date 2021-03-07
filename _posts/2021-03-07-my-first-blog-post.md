@@ -1,3 +1,8 @@
+---
+title: "Just-got-a-Samsung-Galaxy-Flex-Alpha"
+date: 2021-03-07
+---
+
 # Just got my Samsung Galaxy Flex Alpha
 ## My plan for this machine is to have it configurated for ease of use with
 * Git
